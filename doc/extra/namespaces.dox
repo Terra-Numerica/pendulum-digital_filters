@@ -1,0 +1,2 @@
+/// Main namespace that contains all definitions from this library.
+namespace digital_filters {}
