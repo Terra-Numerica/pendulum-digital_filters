@@ -1,0 +1,13 @@
+<map id="include/digital_filters/filter.hpp" name="include/digital_filters/filter.hpp">
+<area shape="rect" id="Node000001" title="Header file containing the Filter class." alt="" coords="222,5,381,45"/>
+<area shape="rect" id="Node000002" href="$average_8hpp.html" title=" " alt="" coords="5,93,187,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,53,155,96,153,91,246,49"/>
+<area shape="rect" id="Node000004" href="$butterworth_8hpp.html" title=" " alt="" coords="211,93,392,148"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="304,59,304,93,299,93,299,59"/>
+<area shape="rect" id="Node000005" href="$exponential_8hpp.html" title=" " alt="" coords="416,93,597,148"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="356,49,450,91,448,96,354,53"/>
+<area shape="rect" id="Node000003" href="$filters_8hpp.html" title=" " alt="" coords="222,196,381,236"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="167,151,261,193,259,198,165,156"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="304,162,304,196,299,196,299,162"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="437,156,344,198,342,193,435,151"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="include/digital_filters/filter.hxx" name="include/digital_filters/filter.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,5,239,45"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,92,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,48,78,87,75,83,131,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="117,93,202,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,46,162,79,157,79,157,46"/>
+<area shape="rect" id="Node000004" href="$utilities_8hpp.html" title=" " alt="" coords="227,93,415,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,43,286,85,283,90,197,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="204,167,267,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="309,121,261,160,258,156,305,117"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="291,167,350,192"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="323,119,323,153,318,153,318,119"/>
+<area shape="rect" id="Node000007" href="$utilities_8hxx.html" title=" " alt="" coords="375,167,563,192"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="346,116,433,158,431,163,343,121"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="431,240,506,265"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="471,192,471,226,466,226,466,192"/>
+</map>

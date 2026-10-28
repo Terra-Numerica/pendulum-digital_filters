@@ -1,0 +1,15 @@
+<map id="include/digital_filters/filters_implementations/butterworth.hxx" name="include/digital_filters/filters_implementations/butterworth.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="106,5,287,60"/>
+<area shape="rect" id="Node000002" href="$utilities_8hpp.html" title=" " alt="" coords="28,108,216,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,62,143,99,139,96,172,58"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="240,108,303,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="221,58,254,96,250,99,217,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,68,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,135,63,175,59,170,107,131"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="93,181,151,207"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="125,134,125,168,119,168,119,134"/>
+<area shape="rect" id="Node000005" href="$utilities_8hxx.html" title=" " alt="" coords="176,181,364,207"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="147,131,235,173,232,178,145,136"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,255,307,280"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="273,207,273,241,267,241,267,207"/>
+</map>
