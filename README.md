@@ -1,6 +1,6 @@
 # digital_filters library
 
-This project has been forked from Franco Fusco's original project at https://github.com/francofusco/digital_filters]
+This project has been forked from Franco Fusco's original project at [https://github.com/francofusco/digital_filters]
 in order to gather at the same place all the sources related to the inverted pendulum demonstrator
 developped by Terra Numerica.
 
